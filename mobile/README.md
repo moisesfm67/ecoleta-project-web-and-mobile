@@ -1,6 +1,6 @@
 #Ecoleta Project
 
-##Project created to register collection points in your region, a web and mobile application using typescript, react and sqlite
+##Project created to register collection points in your region, a web and mobile application using typescript, react, react native, sqlite and others
 
 ###Technologies used
 
