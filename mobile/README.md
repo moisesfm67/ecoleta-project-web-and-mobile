@@ -4,7 +4,7 @@
 
 ###Technologies used
 
-#Markdown
+# Markdown
 -[x]TypeScript (https://www.typescriptlang.org/)
 -[x]React (https://reactjs.org/)
 -[x]React Native (https://reactnative.dev/)
