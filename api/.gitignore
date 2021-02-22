@@ -1,0 +1,4 @@
+node_modules
+src/database/database.sqlite
+src/database/database.sqlite-journal
+package-lock.json
