@@ -5,13 +5,13 @@
 ###Technologies used
 
 # Markdown
-[TypeScript](https://www.typescriptlang.org/)
-[React](https://reactjs.org/)
-[React Native](https://reactnative.dev/)
-[React Leaflet](https://react-leaflet.js.org/)
-[Knex ](http://knexjs.org/)
-[Sqlite](https://www.sqlite.org/index.html)
-[Expo](https://expo.io/)
+[TypeScript](https://www.typescriptlang.org/)<br />
+[React](https://reactjs.org/)<br />
+[React Native](https://reactnative.dev/)<br />
+[React Leaflet](https://react-leaflet.js.org/)<br />
+[Knex ](http://knexjs.org/)<br />
+[Sqlite](https://www.sqlite.org/index.html)<br />
+[Expo](https://expo.io/)<br />
 [Axios](https://github.com/axios/axios)
 
 
