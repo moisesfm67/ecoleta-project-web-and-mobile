@@ -4,9 +4,8 @@
  ### ui => front-end
  ### mobile => mobile application
  
- ### Technologies used
-
 # Markdown
+ ### Technologies used
 [TypeScript](https://www.typescriptlang.org/)<br />
 [React](https://reactjs.org/)<br />
 [React Native](https://reactnative.dev/)<br />
@@ -16,4 +15,27 @@
 [Expo](https://expo.io/)<br />
 [Axios](https://github.com/axios/axios)
 
+## Setup
 
+### To work the web and mobile application, the api has to be running
+
+### API 
+
+- run `npm install`
+- run `npm run knex:migrate`
+- run `npm run knex:seed`
+- run `npm run dev`
+
+### UI
+
+- run `npm install`
+- run `npm run start`
+
+### MOBILE
+
+- run `npm install`
+- run `expo start`
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
