@@ -1,6 +1,6 @@
 # ecoleta-project-web-and-mobile
 
-## project created to register collection points in the region, typescrip, react, knex and sqlite were used
+## project created to register collection points in the region, typescrip, react, knex, sqlite and other technologies were used
 
 ### api => back-end
 
